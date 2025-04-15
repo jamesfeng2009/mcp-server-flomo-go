@@ -2,7 +2,7 @@
 .env
 
 # Compiled binary
-flomo
+/flomo
 *.exe
 *.dll
 *.so
